@@ -1,5 +1,7 @@
 # data_science
 
+[![web](https://github.com/albertojosanu/data_science/blob/main/python.svg)](https://github.com/albertojosanu/data_science)
+
 В папках текущго репозитория расположены проекты, выполненные в среде `Jupiter Notebook` в процессе обучения на курсе `Специалист по Data Science` платформы `Яндекс.Практикум` 
 
 | # | Наименование | Направление |
