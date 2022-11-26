@@ -12,7 +12,7 @@
 `Машинное обучение`
 
 ## Навыки и инструменты
-`Python`, `Pandas`, `Scikit-learn`, `Statsmodels`
+`python`, `pandas`, `scikit-learn`, `statsmodels`
 
 ## Задачи проекта
 Разработка системы предсказания объема заказа
