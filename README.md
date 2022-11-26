@@ -2,6 +2,8 @@
 
 [![web](https://github.com/albertojosanu/data_science/blob/main/python.svg)](https://github.com/albertojosanu/data_science)
 
+## Диплом: https://github.com/albertojosanu/data_science/blob/main/Albert%20Naurazbaev_20222DS00540.pdf
+
 В папках текущго репозитория расположены проекты, выполненные в среде `Jupiter Notebook` в процессе обучения на курсе `Специалист по Data Science` платформы `Яндекс.Практикум` 
 
 | № | Наименование | Направление |
